@@ -1,0 +1,9 @@
+*.pyc
+*.rdb
+.idea/*
+*.DS_Store
+*.log
+*.pid
+*.html
+.Log/*
+.Report/Report.xlsx
